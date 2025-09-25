@@ -72,6 +72,6 @@ Link → para redirigir al enlace de WhatsApp con los datos codificados
 
 Este proyecto utiliza un número de WhatsApp fijo (+51 987654321) (+51 987654321). Puedes modificarlo en el componente App.js ([App.js]) si deseas enviar los datos a otro número.
 
-🛠️ ##Personalización
+## 🛠️ Personalización
 
 Para cambiar el estilo del formulario, edita el archivo App.css ([App.css]) o modifica los estilos en línea dentro del componente.
