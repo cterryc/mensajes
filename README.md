@@ -52,9 +52,11 @@ Haz clic en el botón Enviar.
 
 Se abrirá WhatsApp con un mensaje preformateado como:
 
+```
 *Nombre: Daniel*
 *Fecha: 25/09/2025*
 *Lugar: Lima*
+```
 
 El mensaje estará listo para ser enviado al número +51 931557353 (+51 931557353).
 
