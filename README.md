@@ -14,7 +14,7 @@ Uso de useEffect para registrar cambios en consola (useEffect).
 
 Estilos básicos en línea para disposición visual.
 
-🧩 ##Tecnologías utilizadas
+## 🧩 Tecnologías utilizadas
 
 React
 
