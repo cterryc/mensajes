@@ -62,11 +62,13 @@ El mensaje estará listo para ser enviado al número +51 931557353 (+51 93155735
 
 ## 📁 Estructura del código
 
-jsx useState → para capturar los valores de los inputs useEffect → para registrar los cambios en consola Link → para redirigir al enlace de WhatsApp con los datos codificados jsx
+```jsx
+useState → para capturar los valores de los inputs useEffect → para registrar los cambios en consola Link → para redirigir al enlace de WhatsApp con los datos codificados
+```
 
 ## 📌 Nota importante
 
-Este proyecto utiliza un número de WhatsApp fijo (+51 931557353) (+51 931557353). Puedes modificarlo en el componente App.js ([App.js]) si deseas enviar los datos a otro número.
+Este proyecto utiliza un número de WhatsApp fijo (+51 987654321) (+51 987654321). Puedes modificarlo en el componente App.js ([App.js]) si deseas enviar los datos a otro número.
 
 🛠️ ##Personalización
 
