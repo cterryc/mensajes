@@ -28,15 +28,21 @@ WhatsApp API (wa.me) ([wa.me])
 
 Clona el repositorio:
 
-```bash git clone https://github.com/tu-usuario/whatsapp-form-sender.git cd whatsapp-form-sender ```
+```bash 
+git clone https://github.com/tu-usuario/whatsapp-form-sender.git cd whatsapp-form-sender
+```
 
 Instala las dependencias:
 
-```bash npm install ```
+```bash
+npm install
+```
 
 Inicia la aplicación:
 
-```bash npm start ```
+```bash
+npm start
+```
 
 ## 📝 Uso
 
